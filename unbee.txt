@@ -3,9 +3,8 @@
 Hey There! Im "<span id="k">UNBEE.</span>". <!-- sjkfhskjf -->
 
 Welcome to my Portfolio page <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>you want to see some of my work check out my Github but first something about me </p>
-<p>-Im 20 Years old </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>-Im 21 Years old </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>-I code since im 15! </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>-I have the websites <a href="https://cryptostonnies.de">Crypto_Stonnies</a> and <a href="https://juicyprint.de">Juicyprint</a> </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> Im a professional Web Developer making websites with HTML5, CSS, JS .</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p> I also make Websites with Wordpress. </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p> I also do a bit of python here and there but im still learning it aswell with Java and C# </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
